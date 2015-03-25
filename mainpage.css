@@ -76,3 +76,7 @@
 	margin-top: 8%;
 	padding-bottom: 3%;
 }
+
+body{
+	overflow:hidden;
+}
