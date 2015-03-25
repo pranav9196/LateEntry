@@ -7,3 +7,33 @@
 {
 	padding-top: 5%;
 }
+
+
+
+
+.or
+{
+	text-align: center;
+	color: #eea236;
+	height: 10%;
+	padding-top: 1.5%;
+	font-family: Couture;
+	letter-spacing: 1px; 
+
+}
+
+.bt_style
+{
+	background-color: transparent;
+	color: #282828;
+	border: 1px solid #282828;
+	margin-right: 5%;
+}
+
+.bt_style:hover
+{
+	color:#eee;
+	background-color: #282828;
+
+}
+
