@@ -1,0 +1,39 @@
+.logout
+{
+	background-color: rgba(0,0,0,0);
+	margin-top: -3.2%;
+	color: #eee;
+	border: 1px solid white;
+	font-weight: bold;
+
+}
+
+.logout:hover
+{
+	background-color: white;
+}
+
+h3
+{
+	margin-top: 2%;
+}
+
+.generate
+{
+	margin-top: 9%;
+	background-color: #eee;
+	color:#282828;
+}
+
+.generate:hover
+{
+	/*blck grey*/
+	color:#eee;
+	background-color: #282828;
+	border: 1px solid #282828;
+
+	/*blue white*/
+	/*color:white;
+	background-color: #0094FF;
+	border:1px solid #0094FF;*/
+}
